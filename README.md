@@ -1,8 +1,4 @@
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Arif Can Ayerdem</h1>
 <h3 align="center">I am a Computer Engineer</h3>
 
