@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Arif Can Ayerdem</h1>
-<h3 align="center">I am a Computer engineer</h3>
+<h3 align="center">I am a Computer Engineer</h3>
 
 
 - 🔭 I’m currently working on **Unity**
