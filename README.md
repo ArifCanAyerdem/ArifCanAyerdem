@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Arif Can Ayerdem</h1>
 <h3 align="center">I am a Computer Engineer</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://www.deviantart.com/pixeljeff/art/Coding-990517671)](https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.webp)">
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 - 🔭 I’m currently working on **Unity**
 
